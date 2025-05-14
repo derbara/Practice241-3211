@@ -72,3 +72,7 @@ h5 {
     font-weight: bold;
     color: #99CCFF;
 }
+h6 {
+    font-size: 32px;
+    color: crimson; /* Малиновый цвет для заголовков h6 */
+}
